@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xmde</h1>
-<h3 align="center">A passionate frontend developer from Merica</h3>
+<h3 align="center">A passionate frontend developer from the USA</h3>
 
 - 🔭 I’m currently working on [Socials](https://github.com/Xmde/Socials-Discord-Bot)
 
